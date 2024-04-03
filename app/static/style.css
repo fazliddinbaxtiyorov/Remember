@@ -1,0 +1,52 @@
+.update{
+    width: 200px:
+    height: 100px;
+    text-align: center;
+    margin: 15px;
+}
+.delete {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    text-align: center;
+    margin: 50px;
+    width: 400px;
+    height: 300px;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 15px 15px 25px #0003;
+    justify-content: space-between;
+}
+
+.res{
+    text-align: center;
+}
+
+.add{
+    text-align: center;
+    margin: 16px;
+}
+
+.show{
+    text-align: center;
+    border: 6px solid DarkTurquoise;
+    border-radius: 25px;
+    margin: 12px
+}
+
+li{
+    font-family: Monospace;
+    text-align: center;
+    width: 150px;
+    margin: 15px;
+}
+
+.todo-completed {
+	text-decoration: line-through;
+	background: rgba(149, 165, 166, .3);
+}
+
+.checkbox {
+    width: 20px;
+    height: 20px;
+}
