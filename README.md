@@ -1,4 +1,4 @@
- *Assalomu aleykum bu loyiha Eslatmalar uchun xizmat qiladi
+* Assalomu aleykum bu loyiha Eslatmalar uchun xizmat qiladi
 *Asosiy Sahifa
 ![Screenshot (164)](https://github.com/fazliddinbaxtiyorov/Remember/assets/137509986/3a895140-a821-4c23-8bb0-c8a17932c3a5)
 *Yangi Eslatma qo'shish uchun
